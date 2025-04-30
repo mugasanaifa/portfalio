@@ -1,0 +1,13 @@
+img{
+    height: 500px;
+    width: 500px;
+}
+nav{
+    text-align: right;
+}
+body{
+    background-color: rgb(245, 193, 202);
+} 
+p{
+    font-size: x-large;
+}
